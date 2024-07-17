@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate full-stack developers</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-2204&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-2204" /> </p>
+h1 align="center">Hi 👋, I'm Prashant</h1>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🌱 I’m currently learning **web3**
 
