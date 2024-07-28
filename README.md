@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web3**
 
-- 📄 Know about my experiences full stack developer,devOps,embedded system
+- 📄 full stack developer,devOps,embedded system
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
